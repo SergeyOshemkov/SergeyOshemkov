@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SergeyOshemkov!
 - 👀 I’m interested in Data Analytics and ML.
 - 🌱 I’m currently learning math, Python, data analysis.
-- 💞️ I’m looking to collaborate on on real world data analysis tasks.
+- 💞️ I’m looking to collaborate on real world data analysis tasks.
 - 📫 How to reach me: oshemkov@yandex.ru
 
 <!---
